@@ -1,0 +1,10 @@
+.albums-list {
+    padding: 20px;
+  }
+  
+  .album-item {
+    display: block;
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  

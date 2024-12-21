@@ -1,0 +1,23 @@
+.user-detail {
+  padding: 20px;
+}
+
+.user-detail h1 {
+  margin-bottom: 10px;
+}
+
+.user-detail p {
+  margin: 5px 0;
+}
+
+.albums-list {
+  margin-top: 20px;
+}
+
+.album-item {
+  display: block;
+  margin: 5px 0;
+  font-size: 16px;
+  text-decoration: none;
+  color: #007bff;
+}

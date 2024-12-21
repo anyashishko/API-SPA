@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #282c34;
+    color: white;
+  }
+  
+  .header__link {
+    text-decoration: none;
+    color: white;
+  }
+  

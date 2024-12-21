@@ -1,0 +1,15 @@
+.album-detail {
+    padding: 20px;
+  }
+  
+  .photos-grid {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .photos-grid img {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+  }
+  

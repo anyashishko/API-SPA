@@ -1,0 +1,10 @@
+.users-list {
+    padding: 20px;
+  }
+  
+  .user-item {
+    display: block;
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
